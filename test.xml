@@ -1,7 +1,9 @@
 <info uebung>
-	<klasse=>
-		<schuelerin>Emily Riewe</schuelerin>
+	<klasse>
+		<schuelerin>
+			<name>Emily</name>
+		</schuelerin>
 	</klasse>
-´</info uebung>
+</info uebung>
 
 
